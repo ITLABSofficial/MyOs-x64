@@ -115,7 +115,7 @@ This makes MyOS useful not only as a performance desktop, but also as a working 
 
 The MyOS project is split into clear components so users can follow the part they care about most.
 
-- Main project: [ITLABSofficial/MyOs-x64](https://github.com/ITLABSofficial/MyOs-x64)
+- Main project: [ITLABSofficial](https://itlabsofficial.github.io/)
 - MyOS Kernel: [ITLABSofficial/MyOS-Kernel](https://github.com/ITLABSofficial/MyOS-Kernel)
 - MyOS Tools: [ITLABSofficial/MyOS_Tools](https://github.com/ITLABSofficial/MyOS_Tools)
 - Issues and support: [MyOS x64 Issues](https://github.com/ITLABSofficial/MyOs-x64/issues)
